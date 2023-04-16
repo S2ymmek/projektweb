@@ -1,6 +1,10 @@
 header{
     height: 50px;
 }
+#buttons
+{
+    text-align: right;
+}
 footer{
     height : 200px;
     background-color: black;
@@ -9,9 +13,11 @@ footer{
 #title{
     height: 100px;
     background-color: #f6f6f6;
+    text-align: center;
    
 }
 #main{
+
 height: 400px;
 background-color: red;
 }
